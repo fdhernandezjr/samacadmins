@@ -4,7 +4,7 @@
 ### This is still under construction, so please don't mind the mess.
 
 
-Come Meet Us Powered By You
+Come Meet Us, Powered By You.
 
 
 ### About Us
