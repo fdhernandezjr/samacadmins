@@ -19,10 +19,10 @@ Our goal is simple: to create a social network of Apple Administrators in and ar
 
 ### Meetups
 
-Please check out facebook Page for events information and locations.
+Please check out our facebook Page for events, information and locations.
 
 
-### Sponser an event
+### Sponsor an event
 
 Please reach out to me.
 
