@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A Great First Post
+title: New User group Website 
 ---
 
-This is it!
-What a wonderful post!
+Welcome to you new blog site for all us Apple Adminstrastors.
+
