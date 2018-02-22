@@ -6,6 +6,5 @@ title: About
 ## Mission Statement:
 
 
-### Motto
-
+### Our Motto:
 Come meet us, Power by you.
