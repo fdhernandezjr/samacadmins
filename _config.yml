@@ -8,4 +8,4 @@ github_username:  fdhernandezjr
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-architect
+theme: minima
