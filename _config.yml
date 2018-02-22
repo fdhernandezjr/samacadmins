@@ -1,10 +1,10 @@
 # basic options
 title: SAMACADMINS.COM
-author: fdhernandezjr
-email: fdhernandezjr@gmail.com
-description: SAMACADMINS.COM
-twitter_username: fdhernandezjr
-github_username:  fdhernandezjr
+author: SAMACADMINS.COM
+email: samacadmins@gmail.com
+description: San Antonio Mac Admins User Group
+twitter_username: samacadmins
+github_username:  samacadmins
 
 # Build settings
 markdown: kramdown
