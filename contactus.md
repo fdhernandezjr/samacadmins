@@ -10,4 +10,4 @@ Social Media:
 - Macadmins slack channel : #samacadmins
 
 ## email  
-coming soon
+samacadmins@gmail.com
