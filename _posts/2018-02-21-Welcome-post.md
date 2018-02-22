@@ -1,7 +1,7 @@
 ---
 layout: post
-title: New User group Website 
+title: New Website 
 ---
 
-Welcome to you new blog site for all us Apple Adminstrastors.
+Welcome to our new site for all us Apple Adminstrastors in the San Antonio.
 
