@@ -1,3 +1,8 @@
+---
+layout: post
+title: February Agenda Schedule 
+---
+
 ## Agenda
 
 6:00 - 6:30 PM | DINNER AND CONVERSATION
